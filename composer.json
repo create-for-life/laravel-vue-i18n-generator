@@ -1,5 +1,5 @@
 {
-    "name": "librenms/laravel-vue-i18n-generator",
+    "name": "create-for-life/laravel-vue-i18n-generator",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "license": "MIT",
     "keywords": [
@@ -14,6 +14,10 @@
         {
             "name": "Tony Murray",
             "email": "murraytony@gmail.com"
+        },
+        {
+            "name": "Edwin I. Arellano",
+            "email": "edwin.i.arellano@gmail.com"
         }
     ],
     "homepage": "http://github.com/librenms/laravel-vue-i18n-generator",
